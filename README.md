@@ -1,0 +1,1 @@
+# binary_proto_generator
